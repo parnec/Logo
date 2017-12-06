@@ -1,6 +1,6 @@
 
 
-# Logo Warehouse　 ![Language](https://img.shields.io/badge/format-jpg-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/内部使用的-ParNec logo-ff69b4.svg)
+# Logo Warehouse　 ![Language](https://img.shields.io/badge/format-jpg-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) ![AD](https://img.shields.io/badge/内部使用的-logo-ff69b4.svg)
 
 
 -----------------
