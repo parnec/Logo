@@ -18,7 +18,7 @@ MIT license. Contributions welcome.
 	     +-- README.html      说明文档
 	     |
 	     |
-	     +-- pic         存放 logo图片
+	     +-- pic              存放logo图片
 
 
 
