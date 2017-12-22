@@ -14,11 +14,9 @@ MIT license. Contributions welcome.
 
 	    Logo          根目录
 	     |
+	     +-- README.md      说明文档
 	     |
-	     +-- README.html      说明文档
-	     |
-	     |
-	     +-- pic              存放logo图片
+	     +-- pic            存放logo图片
 
 
 
