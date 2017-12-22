@@ -12,12 +12,11 @@ MIT license. Contributions welcome.
 
 ## Introduction
 
-	    Logo          根目录
+	    Logo/          根目录
+	     |
+	     +-- pic/           存放logo图片
 	     |
 	     +-- README.md      说明文档
-	     |
-	     +-- pic            存放logo图片
-
 
 
 ## Usage
